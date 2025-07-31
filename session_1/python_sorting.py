@@ -1,4 +1,4 @@
-def bubble_sort(arr):
+def bubble_sort(arr,v1):
     n = len(arr)
     for i in range(n):
         for j in range(0, n-i-1):
